@@ -1,0 +1,20 @@
+{
+  "name": "kreko-counter-pads",
+  "version": "0.1.0",
+  "description": "simple example using web sockets",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "@types/ws": "^7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transpile": "tsc *.ts",
+    "start": "node server.js"
+  },
+  "author": "norbert.schnell@hs-furtwangen.de",
+  "license": "BSD"
+}
