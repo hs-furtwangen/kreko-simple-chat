@@ -1,7 +1,7 @@
 {
-  "name": "kreko-counter-pads",
+  "name": "kreko-simple-chat",
   "version": "0.1.0",
-  "description": "simple example using web sockets",
+  "description": "very simple chat using web sockets",
   "main": "server.js",
   "dependencies": {
     "ws": "^7.4.4"
