@@ -1,5 +1,5 @@
 // const socket: WebSocket = new WebSocket("ws://localhost:8000/");
-const socket: WebSocket = new WebSocket("wss://counter-pads.herokuapp.com/");
+const socket: WebSocket = new WebSocket("wss://kreko-simple-chat.herokuapp.com/");
 
 // carrier message interface
 interface CarrierMessage {
